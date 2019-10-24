@@ -16,9 +16,6 @@ So, to link to my favorite tool for data science, I’d use [google](google.com)
 
 Let's add an image.
 
-General syntax for image:
 
-![](image.jpg)
-![](image.giph)
-![](can use relative path in here)
 
+Learn  about me [here](aboutme.html).
